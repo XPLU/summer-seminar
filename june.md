@@ -35,6 +35,15 @@
 ### 图像分类
 - 2014年：GoogLeNet更深卷积
 ### 对比学习
+- CMC：
+    - Contrastive Multiview Coding（ECCV 2020）
+    - 增大不同视角之间的互信息（视觉、听觉、触觉）
+- SimCLR V2:
+    - Big Self-Supervised Models are Strong Semi-Supervised Learners (NeurIPS 2020)
+    - 使用更大的骨干网络模型; 增加 MLP层，实验测试两层最佳; 使用动量编码器，参考 MoCo
+- SWaV:
+    - Unsupervised Learning of Visual Features by Contrasting Cluster Assignments (NeurIPS 2020)
+    - 生成多个视角，利用一个视角得到的特征去预测另一个视角的特征; 与聚类工作相结合，利用 聚类中心（3000个）进行预测; 提出 Muti-crop 的数据增强策略，多尺度的剪裁原始图像作为数据增强
 
 ##  第三周 (2024.06.17 - 2024.06.23)
 ### 超分
@@ -48,6 +57,18 @@
 - 2015年：ResNet 深度残差学习用于图像识别
 
 ### 对比学习
+- Moco V2:
+    - Improved Baselines with Momentum Contrastive Learning (2020)
+    - 借鉴 SimCLRv1 的策略，添加了MLP层，使用了数据增强，训练时使用 cos learning rate schedule
+- Moco V3:
+    - An Empirical Study of Training Self-Supervised Vision Transformers (ICCV 2021)
+    - 结合 MoCov2 和 SimSiam; 骨干网络替换成了 ViT 
+- BYOL:
+    - Bootstrap Your Own Latent A New Approach to Self-Supervised Learning (NeurIPS 2020)
+    - 结合了MOCO和SimCLR各自的优点，并化繁为简
+- SimSiam:
+    - Exploring Simple Siamese Representation Learning (CVPR 2021)
+    - 较 BYOL 没有使用动量编码器进行参数更新
 
 
 ## 第四周 (2024.06.24 - 2024.06.30 )
