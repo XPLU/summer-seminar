@@ -20,7 +20,6 @@
 - InvaSpread: 
     - Unsupervised Embedding Learning via Invariant and Spreading Instance Feature (CVPR 2019)
     - 没有使用额外的数据结构去存储大量的样本信息；正负样本都来自于同一个 minibatch；使用同一个编码器进行端到端的学习。
-
 - CPC: 
     - Representation Learning with Constrastive Predictive Coding (2018)
     - 可以应用于音频、图片、强化学习；将输入当成序列，利用前面的输入通过 RNN 或 LSTM 等网络输出来进行预测。
@@ -87,5 +86,10 @@
 - 2017年：MobileNet用于移动视觉应用的高效卷积神经网络
 
 ### 对比学习
-
+- DINO:
+    - Emerging Properties in Self-Supervised Vision Transformers (ICCV 2021)
+    - 融合 ViT 模型; 使用 student得到的结果去预测得到的结果
+- CLIP:
+    - Learning Transferable Visual Models From Natural Language Supervision (2021)
+    - 模型训练采用了一个非常大的数据集; CLIP 预训练模型可以在不需要任何数据集训练的情况下和一个有监督学习的模型达成平手，甚至还会更高
 
