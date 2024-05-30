@@ -93,3 +93,6 @@
     - Learning Transferable Visual Models From Natural Language Supervision (2021)
     - 模型训练采用了一个非常大的数据集; CLIP 预训练模型可以在不需要任何数据集训练的情况下和一个有监督学习的模型达成平手，甚至还会更高
 
+### H100介绍
+- 基于 NVIDIA GPU 加速的数据中心
+- NVIDIA H100 GPU 架构深度解析
