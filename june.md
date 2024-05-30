@@ -64,10 +64,10 @@
     - 结合 MoCov2 和 SimSiam; 骨干网络替换成了 ViT 
 - BYOL:
     - Bootstrap Your Own Latent A New Approach to Self-Supervised Learning (NeurIPS 2020)
-    - 结合了MOCO和SimCLR各自的优点，并化繁为简
+    - 结合了MOCO和SimCLR各自的优点; 并化繁为简; 无需负样本
 - SimSiam:
     - Exploring Simple Siamese Representation Learning (CVPR 2021)
-    - 较 BYOL 没有使用动量编码器进行参数更新
+    - 较 BYOL 没有使用动量编码器进行参数更新; 无需负样本
 
 
 ## 第四周 (2024.06.24 - 2024.06.30 )
