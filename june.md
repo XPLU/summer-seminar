@@ -97,7 +97,7 @@
     - 深度学习与深度可分卷积
 - 2017年：MobileNet
     - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
-    - - 用于移动视觉应用的高效卷积神经网络
+    - 用于移动视觉应用的高效卷积神经网络
 
 ### 对比学习
 - DINO:
