@@ -11,8 +11,12 @@
 ##### Semantic Blind Super-Resolution   
 - Finding Discriminative Filters for Specific Degradations in Blind Super-Resolution
 ### 图像分类
-- 2012年：AlexNet 深度卷积神经网络的ImageNet分类
-- 2014年：VGG 超深度卷积网络用于大规模图像识别
+- 2012年：AlexNet
+  - ImageNet Classification with Deep Convolutional Neural Networks
+  - 深度卷积神经网络的ImageNet分类
+- 2014年：VGG
+    - Very Deep Convolutional Networksfor Large-Scale Image Recognition
+    - 超深度卷积网络用于大规模图像识别
 ### 对比学习
 - InstDist: 
     - Unsupervised Feature Learning via Non-Parametric Instance Discrimination (CVPR 2018) 
@@ -32,7 +36,9 @@
 ##### Mamba and Image Restoration
 - MambaIR: A Simple Baseline for Image Restoration with State-Space Model
 ### 图像分类
-- 2014年：GoogLeNet更深卷积
+- 2014年：GoogLeNet
+    - Going deeper with convolutions
+    - 更深卷积
 ### 对比学习
 - CMC：
     - Contrastive Multiview Coding（ECCV 2020）
@@ -52,8 +58,12 @@
 ##### Unsupervised Deraining
 - Unsupervised Deraining: Where Asymmetric Contrastive Learning Meets Self-Similarity
 ### 图像分类
-- 2015年：Batch Normalization 批处理规范化：通过减少内部协变量偏移来加速深度网络训练
-- 2015年：ResNet 深度残差学习用于图像识别
+- 2015年：Batch Normalization
+    - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+    - 批处理规范化：通过减少内部协变量偏移来加速深度网络训练
+- 2015年：ResNet
+    - Deep Residual Learning for Image Recognition
+    - 深度残差学习用于图像识别
 
 ### 对比学习
 - Moco V2:
@@ -82,8 +92,12 @@
 - Local Texture Estimator for Implicit Representation Function
 
 ### 图像分类
-- 2016年：Xception深度学习与深度可分卷积
-- 2017年：MobileNet用于移动视觉应用的高效卷积神经网络
+- 2016年：Xception
+    - Xception: Deep Learning with Depthwise Separable Convolutions
+    - 深度学习与深度可分卷积
+- 2017年：MobileNet
+    - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+    - - 用于移动视觉应用的高效卷积神经网络
 
 ### 对比学习
 - DINO:
