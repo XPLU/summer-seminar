@@ -14,6 +14,16 @@
 - 2012年：AlexNet 深度卷积神经网络的ImageNet分类
 - 2014年：VGG 超深度卷积网络用于大规模图像识别
 ### 对比学习
+- InstDist: 
+    - Unsupervised Feature Learning via Non-Parametric Instance Discrimination (CVPR 2018) 
+    - 利用 memory bank 来存储图像经神经网络编码后的特征。
+- InvaSpread: 
+    - Unsupervised Embedding Learning via Invariant and Spreading Instance Feature (CVPR 2019)
+    - 没有使用额外的数据结构去存储大量的样本信息；正负样本都来自于同一个 minibatch；使用同一个编码器进行端到端的学习。
+
+- CPC: 
+    - Representation Learning with Constrastive Predictive Coding (2019)
+    - 可以应用于音频、图片、强化学习；将输入当成序列，利用前面的输入通过 RNN 或 LSTM 等网络输出来进行预测。
 
 ##  第二周  (2024.6.10 - 2024.6.16)
 ### 超分
