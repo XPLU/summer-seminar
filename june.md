@@ -15,29 +15,46 @@
 - 2014年：VGG 超深度卷积网络用于大规模图像识别
 ### 对比学习
 
-## 6.10 - 6.16 第二周 
-### 跨领域整合的图像修复方法
-#### LUTs and Image Restoration
+##  第二周  (24.6.10 - 24.6.16)
+### 超分
+#### 跨领域整合的图像修复方法
+##### LUTs and Image Restoration
 - Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
-#### Mamba and Image Restoration
+##### Mamba and Image Restoration
 - MambaIR: A Simple Baseline for Image Restoration with State-Space Model
+### 图像分类
+- 2014年：GoogLeNet更深卷积
+### 对比学习
 
-## 6.17 - 6.23 第三周 
-### 无监督计算机视觉
-#### Unsupervised Super resolution
+##  第三周 (24.6.17 - 24.6.23)
+### 超分
+#### 无监督计算机视觉
+#### #Unsupervised Super resolution
 - Bayesian Image Super-Resolution With Deep Modeling of Image Statistics
-#### Unsupervised Deraining
+##### Unsupervised Deraining
 - Unsupervised Deraining: Where Asymmetric Contrastive Learning Meets Self-Similarity
+### 图像分类
+- 2015年：Batch Normalization 批处理规范化：通过减少内部协变量偏移来加速深度网络训练
+- 2015年：ResNet 深度残差学习用于图像识别
 
-## 6.24 - 6.30 第四周 
-### 傅里叶特征
+### 对比学习
+
+
+## 第四周 (24.6.24 - 24.6.30 )
+### 超分
+#### 傅里叶特征
 傅里叶特征是简单傅里叶变换的工程改进，此部分论文数学内容与主题关联较小，可在一定程度上忽略。
-#### Brief introduction of Spectral Bias
+##### Brief introduction of Spectral Bias
 - On the Spectral Bias of Neural Networks (概览,可不看)
-#### Brief introduction of Fourier Features
+##### Brief introduction of Fourier Features
 - Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains (概览,可不看)
-#### Fourier feature for continue super resolution
+##### Fourier feature for continue super resolution
 - Local Texture Estimator for Implicit Representation Function
 
+### 图像分类
+- 2016年：Xception深度学习与深度可分卷积
+- 2017年：MobileNet用于移动视觉应用的高效卷积神经网络
+
+### 对比学习
 
 
