@@ -22,6 +22,7 @@
     - 没有使用额外的数据结构去存储大量的样本信息；正负样本都来自于同一个 minibatch；使用同一个编码器进行端到端的学习。
 
 - CPC: 
+    - Representation Learning with Constrastive Predictive Coding (2018)
     - 可以应用于音频、图片、强化学习；将输入当成序列，利用前面的输入通过 RNN 或 LSTM 等网络输出来进行预测。
 
 ##  第二周  (2024.06.10 - 2024.06.16)
