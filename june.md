@@ -1,13 +1,19 @@
-## 6.03 - 6.09 第一周 11
-### 积分梯度与盲超分语义
+# Summer Class
+## 第一周  (24.6.03 - 24.6.09)
+### 超分
+#### 积分梯度与盲超分语义
 积分梯度常用于神经网络解释性工作，数学推导较为简单。
-#### Brief introduction of Integral Gradient  
+##### Brief introduction of Integral Gradient  
 - Axiomatic Attribution for Deep Networks (概览,可不看)
 - https://zhuanlan.zhihu.com/p/468782348/ (可只看这个网站)
-#### Attribution analysis on Blind Super-Resolution   
+##### Attribution analysis on Blind Super-Resolution   
 - SeD: Semantic-Aware Discriminator for Image Super-Resolution
-#### Semantic Blind Super-Resolution   
+##### Semantic Blind Super-Resolution   
 - Finding Discriminative Filters for Specific Degradations in Blind Super-Resolution
+### 图像分类
+- 2012年：AlexNet 深度卷积神经网络的ImageNet分类
+- 2014年：VGG 超深度卷积网络用于大规模图像识别
+### 对比学习
 
 ## 6.10 - 6.16 第二周 
 ### 跨领域整合的图像修复方法
