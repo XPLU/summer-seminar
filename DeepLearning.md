@@ -11,13 +11,6 @@
 - SeD: Semantic-Aware Discriminator for Image Super-Resolution
 ##### Semantic Blind Super-Resolution   
 - Finding Discriminative Filters for Specific Degradations in Blind Super-Resolution
-### 图像分类
-- 2012年：AlexNet
-  - ImageNet Classification with Deep Convolutional Neural Networks
-  - 深度卷积神经网络的ImageNet分类
-- 2014年：VGG
-    - Very Deep Convolutional Networksfor Large-Scale Image Recognition
-    - 超深度卷积网络用于大规模图像识别
 ### 对比学习
 - InstDist: 
     - Unsupervised Feature Learning via Non-Parametric Instance Discrimination (CVPR 2018) 
@@ -37,9 +30,12 @@
 ##### Mamba and Image Restoration
 - MambaIR: A Simple Baseline for Image Restoration with State-Space Model
 ### 图像分类
-- 2014年：GoogLeNet
-    - Going deeper with convolutions
-    - 更深卷积
+- 2012年：AlexNet
+  - ImageNet Classification with Deep Convolutional Neural Networks
+  - 深度卷积神经网络的ImageNet分类
+- 2014年：VGG
+    - Very Deep Convolutional Networksfor Large-Scale Image Recognition
+    - 超深度卷积网络用于大规模图像识别
 ### 对比学习
 - CMC：
     - Contrastive Multiview Coding（ECCV 2020）
@@ -91,14 +87,11 @@
 - Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains (概览,可不看)
 ##### Fourier feature for continue super resolution
 - Local Texture Estimator for Implicit Representation Function
-
 ### 图像分类
-- 2016年：Xception
-    - Xception: Deep Learning with Depthwise Separable Convolutions
-    - 深度学习与深度可分卷积
-- 2017年：MobileNet
-    - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
-    - 用于移动视觉应用的高效卷积神经网络
+- 2014年：GoogLeNet
+    - Going deeper with convolutions
+    - 更深卷积
+
 
 ### 对比学习
 - DINO:
@@ -111,3 +104,11 @@
 ### H100介绍
 - 基于 NVIDIA GPU 加速的数据中心
 - NVIDIA H100 GPU 架构深度解析
+## 第五周 (2024.07.01 - 2024.07.07 )
+### 图像分类
+- 2016年：Xception
+    - Xception: Deep Learning with Depthwise Separable Convolutions
+    - 深度学习与深度可分卷积
+- 2017年：MobileNet
+    - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+    - 用于移动视觉应用的高效卷积神经网络
