@@ -24,11 +24,11 @@
 
 ##  第二周  (2024.06.10 - 2024.06.16)
 ### 超分
-#### 跨领域整合的图像修复方法
-##### LUTs and Image Restoration
-- Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
-##### Mamba and Image Restoration
-- MambaIR: A Simple Baseline for Image Restoration with State-Space Model
+#### 无监督计算机视觉
+#### Unsupervised Super resolution
+- Bayesian Image Super-Resolution With Deep Modeling of Image Statistics
+##### Unsupervised Deraining
+- Unsupervised Deraining: Where Asymmetric Contrastive Learning Meets Self-Similarity
 ### 图像分类
 - 2012年：AlexNet
   - ImageNet Classification with Deep Convolutional Neural Networks
@@ -49,11 +49,11 @@
 
 ##  第三周 (2024.06.17 - 2024.06.23)
 ### 超分
-#### 无监督计算机视觉
-#### Unsupervised Super resolution
-- Bayesian Image Super-Resolution With Deep Modeling of Image Statistics
-##### Unsupervised Deraining
-- Unsupervised Deraining: Where Asymmetric Contrastive Learning Meets Self-Similarity
+#### 跨领域整合的图像修复方法
+##### LUTs and Image Restoration
+- Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
+##### Mamba and Image Restoration
+- MambaIR: A Simple Baseline for Image Restoration with State-Space Model
 ### 图像分类
 - 2015年：Batch Normalization
     - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
